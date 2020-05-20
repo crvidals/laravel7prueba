@@ -84,7 +84,7 @@
         <!-- Section 2 -->
         <section class="full-width">
         <div class="s-12 m-12 l-6">
-            <img src="img/img-12.jpg" alt="">
+            <img src="img/img-12_2.jpg" alt="">
         </div>
         <div class="s-12 m-12 l-6">
             <div class="padding-2x">
